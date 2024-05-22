@@ -1,0 +1,3 @@
+python-dotenv
+pathway[xpack-llm-local]
+pathway[xpack-llm]
